@@ -1,10 +1,11 @@
 {
-    "name": "nwidart/blog",
+    "name": "crazyhl/test-module",
     "description": "",
+    "type": "laravel-module"
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "M1racle Hao",
+            "email": "crazyhl@163.com"
         }
     ],
     "extra": {
