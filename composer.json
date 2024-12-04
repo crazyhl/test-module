@@ -1,7 +1,7 @@
 {
     "name": "crazyhl/test-module",
     "description": "",
-    "type": "laravel-module"
+    "type": "laravel-module",
     "authors": [
         {
             "name": "M1racle Hao",
